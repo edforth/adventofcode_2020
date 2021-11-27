@@ -1,4 +1,4 @@
-with open('day3input.txt',"r") as f:
+with open('day03input.txt',"r") as f:
     lines = f.read().splitlines()
 
 def newpos(currentposition, currentslope):

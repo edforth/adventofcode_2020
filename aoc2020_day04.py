@@ -1,4 +1,4 @@
-with open('day4input.txt',"r") as f:
+with open('day04input.txt',"r") as f:
     lines = f.read().split("\n\n")
 
 
